@@ -1,0 +1,20 @@
+,phase,agent,action,duration,cost,day_rate
+0,TurbineInstallation,Port,Port,3788.125117542725,10378424.97956911,65753.42465753424
+1,TurbineInstallation,WTIV,Mobilize,168.0,3500000.0,500000.0
+2,TurbineInstallation,WTIV,Fasten Tower Section,240.0,4999999.999999998,499999.9999999998
+3,TurbineInstallation,WTIV,Fasten Nacelle,120.0,2500000.0000000005,500000.0000000001
+4,TurbineInstallation,WTIV,Fasten Blade,135.0,2812500.0,500000.0
+5,TurbineInstallation,WTIV,Transit,684.4,14258333.333333332,500000.0
+6,TurbineInstallation,WTIV,Position Onsite,60.0,1250000.0000000002,500000.0000000001
+7,TurbineInstallation,WTIV,Jackup,11.799999999999997,245833.3333333333,500000.0000000001
+8,TurbineInstallation,WTIV,Release Tower Section,180.0,3750000.0,500000.0
+9,TurbineInstallation,WTIV,Lift Tower Section,75.60000000000002,1575000.0,499999.9999999999
+10,TurbineInstallation,WTIV,Attach Tower Section,360.0,7500000.0,500000.0
+11,TurbineInstallation,WTIV,Release Nacelle,90.0,1875000.0,500000.0
+12,TurbineInstallation,WTIV,Reequip,60.0,1249999.9999999995,499999.9999999998
+13,TurbineInstallation,WTIV,Lift Nacelle,50.4,1050000.0,500000.0
+14,TurbineInstallation,WTIV,Attach Nacelle,180.0,3750000.0,500000.0
+15,TurbineInstallation,WTIV,Release Blade,90.0,1875000.0,500000.0
+16,TurbineInstallation,WTIV,Lift Blade,151.20000000000002,3150000.0,499999.99999999994
+17,TurbineInstallation,WTIV,Attach Blade,315.0,6562499.999999998,499999.9999999999
+18,TurbineInstallation,WTIV,Jackdown,11.799999999999997,245833.3333333333,500000.0000000001

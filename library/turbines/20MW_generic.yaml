@@ -1,0 +1,21 @@
+# Most Data comes from Sartori et al. (Prelim. design and opt. of 20MW RWT), Mass data from 20-MW example from Barter et al. 2023
+blade:
+  deck_space: 645      # m^2 length * max chord * 0.75 (assume 25% overhang)
+  length: 126          # m
+  type: Blade
+  mass: 107.8          # tonnes
+hub_height: 168        # m
+nacelle:
+  deck_space: 323      # m^2 guess 242 from 15-MW multiplied by 20/15
+  type: Nacelle
+  mass: 680.54           # tonnes (Barter et al. 2023)
+name: 20MW_generic
+rated_windspeed: 10.74 # m/s
+rotor_diameter: 258    # m
+tower:
+  deck_space: 105    # m^2 guess 78.5 from 15-MW multiplied by 20/15
+  sections: 2          # guess
+  type: Tower
+  length: 168           # m hub height
+  mass: 689.05          # tonnes total (1378.10126949743 from Barter et al 2023) tonnes/2
+turbine_rating: 20     # MW
